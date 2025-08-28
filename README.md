@@ -19,7 +19,7 @@ Gravitus is a NodeJS DDoS Tool Made by **m85.68**
 ## Installations :
      git clone https://github.com/iamthebestm85/Gravitus.git
      cd Gravitus
-     wget http://89.213.174.80:8080/proxy.txt
+     wget -O proxy.txt "https://api.proxyscrape.com/v4/free-proxy-list/get?request=displayproxies&protocol=http&timeout=100&country=all&ssl=all&anonymity=all&skip=0&limit=2000"
      python3 install.py  
 
 
