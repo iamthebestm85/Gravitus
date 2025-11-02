@@ -22,8 +22,11 @@ Gravitus is a NodeJS DDoS Tool Made by **m85.68**
      wget -O proxy.txt "https://api.proxyscrape.com/v4/free-proxy-list/get?request=displayproxies&protocol=http&timeout=100&country=all&ssl=all&anonymity=all&skip=0&limit=2000"
      python3 install.py  
 
+Trust issue ?
+The Mail File can be decoded from deobfuscate sites
 
 
+EDUCATIONAL PURPOSES ONLY 
 ## Donation :) 
      bc1qg04kytgfh7h4u3e4qmcq4l3258qvttlxyg8kl4
 
